@@ -40,13 +40,13 @@ export default class NavBarSide extends React.Component {
                 <div className="sidebar-sticky">
                     <ul className="nav flex-column">
                         <NavItem>
-                            <NavLink href="/platforms/">Platforms</NavLink>
+                            <NavLink href="/platforms">Platforms</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink href="/brokers/">Services</NavLink>
+                            <NavLink href="/brokers">Services</NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink href="/instances/">Instances</NavLink>
+                            <NavLink href="/instances">Instances</NavLink>
                         </NavItem>
                     </ul>
                 </div>
